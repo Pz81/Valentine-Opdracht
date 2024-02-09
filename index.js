@@ -149,3 +149,6 @@ function startGame() {
 
 // Initialize game
 startButton.addEventListener('click', startGame);
+
+
+
